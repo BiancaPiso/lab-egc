@@ -1,0 +1,28 @@
+C:\Facultate\Laboratorul2\bin\Debug\Laboratorul2.exe.config
+C:\Facultate\Laboratorul2\bin\Debug\Laboratorul2.exe
+C:\Facultate\Laboratorul2\bin\Debug\Laboratorul2.pdb
+C:\Facultate\Laboratorul2\bin\Debug\OpenTK.dll
+C:\Facultate\Laboratorul2\bin\Debug\OpenTK.GLControl.dll
+C:\Facultate\Laboratorul2\bin\Debug\OpenTK.pdb
+C:\Facultate\Laboratorul2\bin\Debug\OpenTK.xml
+C:\Facultate\Laboratorul2\bin\Debug\OpenTK.GLControl.pdb
+C:\Facultate\Laboratorul2\bin\Debug\OpenTK.GLControl.xml
+C:\Facultate\Laboratorul2\obj\Debug\Laboratorul2.csprojAssemblyReference.cache
+C:\Facultate\Laboratorul2\obj\Debug\Laboratorul2.csproj.CoreCompileInputs.cache
+C:\Facultate\Laboratorul2\obj\Debug\Laboratorul2.csproj.CopyComplete
+C:\Facultate\Laboratorul2\obj\Debug\Laboratorul2.exe
+C:\Facultate\Laboratorul2\obj\Debug\Laboratorul2.pdb
+C:\Facultate\Laboratorul2 - proiect elementar\obj\Debug\Laboratorul2.csprojAssemblyReference.cache
+C:\Facultate\Laboratorul2 - proiect elementar\obj\Debug\Laboratorul2.csproj.CoreCompileInputs.cache
+C:\Facultate\Laboratorul2 - proiect elementar\obj\Debug\Laboratorul2.exe
+C:\Facultate\Laboratorul2 - proiect elementar\obj\Debug\Laboratorul2.pdb
+C:\Facultate\Laboratorul2 - proiect elementar\bin\Debug\Laboratorul2.exe.config
+C:\Facultate\Laboratorul2 - proiect elementar\bin\Debug\Laboratorul2.exe
+C:\Facultate\Laboratorul2 - proiect elementar\bin\Debug\Laboratorul2.pdb
+C:\Facultate\Laboratorul2 - proiect elementar\bin\Debug\OpenTK.dll
+C:\Facultate\Laboratorul2 - proiect elementar\bin\Debug\OpenTK.GLControl.dll
+C:\Facultate\Laboratorul2 - proiect elementar\bin\Debug\OpenTK.pdb
+C:\Facultate\Laboratorul2 - proiect elementar\bin\Debug\OpenTK.xml
+C:\Facultate\Laboratorul2 - proiect elementar\bin\Debug\OpenTK.GLControl.pdb
+C:\Facultate\Laboratorul2 - proiect elementar\bin\Debug\OpenTK.GLControl.xml
+C:\Facultate\Laboratorul2 - proiect elementar\obj\Debug\Laboratorul2.csproj.CopyComplete
